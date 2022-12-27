@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Homework6Clown.dir/main.cpp.o -o Homework6Clown 
